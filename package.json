@@ -8,13 +8,16 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "serve": "node ./server/app.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test-server": "jest ./server/tests",
+    "test": "npm run test-server",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -34,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.3.3"
   }
 }

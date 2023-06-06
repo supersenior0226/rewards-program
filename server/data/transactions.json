@@ -1,0 +1,352 @@
+[
+    {
+        "customerId": 1,
+        "amount": 185,
+        "date": "2023-03-01"
+    },
+    {
+        "customerId": 2,
+        "amount": 115,
+        "date": "2023-03-05"
+    },
+    {
+        "customerId": 3,
+        "amount": 674,
+        "date": "2023-03-10"
+    },
+    {
+        "customerId": 3,
+        "amount": 322,
+        "date": "2023-03-15"
+    },
+    {
+        "customerId": 5,
+        "amount": 1016,
+        "date": "2023-03-20"
+    },
+    {
+        "customerId": 6,
+        "amount": 16,
+        "date": "2023-03-25"
+    },
+    {
+        "customerId": 7,
+        "amount": 181,
+        "date": "2023-03-30"
+    },
+    {
+        "customerId": 8,
+        "amount": 3,
+        "date": "2023-04-02"
+    },
+    {
+        "customerId": 9,
+        "amount": 120,
+        "date": "2023-04-05"
+    },
+    {
+        "customerId": 10,
+        "amount": 558,
+        "date": "2023-04-10"
+    },
+    {
+        "customerId": 1,
+        "amount": 797,
+        "date": "2023-04-15"
+    },
+    {
+        "customerId": 2,
+        "amount": 469,
+        "date": "2023-04-20"
+    },
+    {
+        "customerId": 3,
+        "amount": 124,
+        "date": "2023-04-25"
+    },
+    {
+        "customerId": 3,
+        "amount": 234,
+        "date": "2023-04-30"
+    },
+    {
+        "customerId": 5,
+        "amount": 1081,
+        "date": "2023-05-05"
+    },
+    {
+        "customerId": 6,
+        "amount": 1126,
+        "date": "2023-05-10"
+    },
+    {
+        "customerId": 7,
+        "amount": 224,
+        "date": "2023-05-15"
+    },
+    {
+        "customerId": 8,
+        "amount": 435,
+        "date": "2023-05-20"
+    },
+    {
+        "customerId": 9,
+        "amount": 1049,
+        "date": "2023-05-25"
+    },
+    {
+        "customerId": 10,
+        "amount": 781,
+        "date": "2023-05-30"
+    },
+    {
+        "customerId": 1,
+        "amount": 982,
+        "date": "2023-06-02"
+    },
+    {
+        "customerId": 2,
+        "amount": 585,
+        "date": "2023-06-07"
+    },
+    {
+        "customerId": 3,
+        "amount": 583,
+        "date": "2023-06-12"
+    },
+    {
+        "customerId": 3,
+        "amount": 1097,
+        "date": "2023-06-17"
+    },
+    {
+        "customerId": 5,
+        "amount": 127,
+        "date": "2023-06-22"
+    },
+    {
+        "customerId": 6,
+        "amount": 218,
+        "date": "2023-06-27"
+    },
+    {
+        "customerId": 7,
+        "amount": 467,
+        "date": "2023-07-01"
+    },
+    {
+        "customerId": 8,
+        "amount": 521,
+        "date": "2023-07-06"
+    },
+    {
+        "customerId": 9,
+        "amount": 618,
+        "date": "2023-07-11"
+    },
+    {
+        "customerId": 10,
+        "amount": 986,
+        "date": "2023-07-16"
+    },
+    {
+        "customerId": 1,
+        "amount": 1105,
+        "date": "2023-07-21"
+    },
+    {
+        "customerId": 2,
+        "amount": 723,
+        "date": "2023-07-26"
+    },
+    {
+        "customerId": 3,
+        "amount": 533,
+        "date": "2023-07-31"
+    },
+    {
+        "customerId": 3,
+        "amount": 24,
+        "date": "2023-08-03"
+    },
+    {
+        "customerId": 5,
+        "amount": 30,
+        "date": "2023-08-08"
+    },
+    {
+        "customerId": 6,
+        "amount": 531,
+        "date": "2023-08-13"
+    },
+    {
+        "customerId": 7,
+        "amount": 1142,
+        "date": "2023-08-18"
+    },
+    {
+        "customerId": 8,
+        "amount": 1030,
+        "date": "2023-08-23"
+    },
+    {
+        "customerId": 9,
+        "amount": 1241,
+        "date": "2023-08-28"
+    },
+    {
+        "customerId": 10,
+        "amount": 833,
+        "date": "2023-09-02"
+    },
+    {
+        "customerId": 1,
+        "amount": 1242,
+        "date": "2023-09-07"
+    },
+    {
+        "customerId": 2,
+        "amount": 93,
+        "date": "2023-09-12"
+    },
+    {
+        "customerId": 3,
+        "amount": 229,
+        "date": "2023-09-17"
+    },
+    {
+        "customerId": 3,
+        "amount": 101,
+        "date": "2023-09-22"
+    },
+    {
+        "customerId": 5,
+        "amount": 744,
+        "date": "2023-09-27"
+    },
+    {
+        "customerId": 6,
+        "amount": 771,
+        "date": "2023-10-02"
+    },
+    {
+        "customerId": 7,
+        "amount": 477,
+        "date": "2023-10-07"
+    },
+    {
+        "customerId": 8,
+        "amount": 779,
+        "date": "2023-10-12"
+    },
+    {
+        "customerId": 9,
+        "amount": 862,
+        "date": "2023-10-17"
+    },
+    {
+        "customerId": 10,
+        "amount": 559,
+        "date": "2023-10-22"
+    },
+    {
+        "customerId": 1,
+        "amount": 771,
+        "date": "2023-10-27"
+    },
+    {
+        "customerId": 2,
+        "amount": 997,
+        "date": "2023-11-01"
+    },
+    {
+        "customerId": 3,
+        "amount": 485,
+        "date": "2023-11-06"
+    },
+    {
+        "customerId": 3,
+        "amount": 1078,
+        "date": "2023-11-11"
+    },
+    {
+        "customerId": 5,
+        "amount": 666,
+        "date": "2023-11-16"
+    },
+    {
+        "customerId": 6,
+        "amount": 1175,
+        "date": "2023-11-21"
+    },
+    {
+        "customerId": 7,
+        "amount": 1062,
+        "date": "2023-11-26"
+    },
+    {
+        "customerId": 8,
+        "amount": 527,
+        "date": "2023-11-30"
+    },
+    {
+        "customerId": 9,
+        "amount": 652,
+        "date": "2023-12-05"
+    },
+    {
+        "customerId": 10,
+        "amount": 657,
+        "date": "2023-12-10"
+    },
+    {
+        "customerId": 1,
+        "amount": 775,
+        "date": "2023-12-15"
+    },
+    {
+        "customerId": 2,
+        "amount": 1094,
+        "date": "2023-12-20"
+    },
+    {
+        "customerId": 3,
+        "amount": 265,
+        "date": "2023-12-25"
+    },
+    {
+        "customerId": 3,
+        "amount": 906,
+        "date": "2023-12-30"
+    },
+    {
+        "customerId": 5,
+        "amount": 1155,
+        "date": "2024-01-04"
+    },
+    {
+        "customerId": 6,
+        "amount": 1206,
+        "date": "2024-01-09"
+    },
+    {
+        "customerId": 7,
+        "amount": 63,
+        "date": "2024-01-14"
+    },
+    {
+        "customerId": 8,
+        "amount": 764,
+        "date": "2024-01-19"
+    },
+    {
+        "customerId": 9,
+        "amount": 961,
+        "date": "2024-01-24"
+    },
+    {
+        "customerId": 10,
+        "amount": 1,
+        "date": "2024-01-29"
+    }
+]
